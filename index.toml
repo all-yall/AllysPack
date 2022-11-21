@@ -105,6 +105,10 @@ file = "config/yosbr/options.txt"
 hash = "8417a8629d8fb25f7de12a971f55c1b14024f834864110e51f36c0402aed1c35"
 
 [[files]]
+file = "journeymap/config/5.9/journeymap.core.config"
+hash = "9036c3977645e0fbf8aa2aae50adab0d2ef5b3576524d187bb553954ac0dd28d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
