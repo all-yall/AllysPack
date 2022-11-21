@@ -1,0 +1,13 @@
+name = "Basic Shields [Fabric]"
+filename = "BasicShields-1.4.0-pre2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70b46c0a7d3053429bf914a3ba9fac420b615a3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3987446
+project-id = 538011
