@@ -595,11 +595,6 @@ hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
 metafile = true
 
 [[files]]
-file = "mods/villager-names-fabric.pw.toml"
-hash = "82a29afb1e461e36718af6d5fe5b4790f4911b4d59242d6ab4cc7f3db77b7e00"
-metafile = true
-
-[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "4a144b251b80680c3edbb7fbb7c0f7de67197dc0f5e49bf6833d838f934abc92"
 metafile = true
