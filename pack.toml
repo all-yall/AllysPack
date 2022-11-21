@@ -1,12 +1,12 @@
-name = "Fabulously Optimized"
-author = "robotkoer"
-version = "4.5.2"
+name = "AllysPack"
+author = "ally"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bb5abf5351efd5b61da6fc7acade346938913996831c31bba2822e6a9745d82b"
+hash = "f6a3e7297ec7abac4d964f91d7ec96a714b7d2158dc21743b9f7258d0cd74ed7"
 
 [versions]
 fabric = "0.14.10"
