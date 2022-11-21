@@ -3,11 +3,11 @@ filename = "deeperdarker-fabric-1.1.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/q4LMiB6a/deeperdarker-fabric-1.1.4.jar"
 hash-format = "sha1"
 hash = "b8a6bdc88edb86581fa70516c1460f54b2471547"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4067921
-project-id = 659011
+[update.modrinth]
+mod-id = "fnAffV0n"
+version = "q4LMiB6a"

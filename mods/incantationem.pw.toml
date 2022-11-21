@@ -3,11 +3,11 @@ filename = "incantationem-1.1.6+1.19.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ZmRxbKUp/versions/kYnkWCjJ/incantationem-1.1.6%2B1.19.jar"
 hash-format = "sha1"
-hash = "9a7f7b87ae9a368fe189030811161ca91b1dcfbb"
-mode = "metadata:curseforge"
+hash = "9113f1a8991e862532b1976fbc5273bf7249bc8a"
 
 [update]
-[update.curseforge]
-file-id = 4018252
-project-id = 483166
+[update.modrinth]
+mod-id = "ZmRxbKUp"
+version = "kYnkWCjJ"

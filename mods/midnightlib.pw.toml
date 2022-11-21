@@ -3,11 +3,11 @@ filename = "midnightlib-fabric-1.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/p0LjncVW/midnightlib-fabric-1.0.0.jar"
 hash-format = "sha1"
 hash = "a4d7c5f2f191e7e0fc2b272116212ac8134652bf"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4059589
-project-id = 488090
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "p0LjncVW"
