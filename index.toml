@@ -21,6 +21,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "6de5a7b31b67b0f05f38cd99a71689b72a541c3ed9bd82145ec7abbe46f9f4e7"
 
 [[files]]
+file = "config/inmis.json"
+hash = "e3d82cdad8068aeba7b4850a2e0ac59034db9251db2cd0c3c12efd62d3e02b16"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "b9d28daccf7a7873f8e70be8fc9f3cc0a6340749df3041c81ad406f47f953a38"
 
