@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "8b5c1dd4e6d7974cb94d0a56e9b92e61198ec84b4887266e17fd749facccf4af"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
