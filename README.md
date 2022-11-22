@@ -25,7 +25,6 @@ For a full list, please check out the `mods` folder  in the source code listed b
 ## Other Credited Mods
 
 Thanks, and credit, given to the following mods!
-* [Ducklings](https://www.curseforge.com/minecraft/mc-mods/duckling)
 * [Xali's Enchanted Books](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books)
 * [Colormatics](https://modrinth.com/mod/colormatic)
 

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "651d43c57dbad4990567ae6101b332a1f4d042185b2d5fe71ef30d3072a180f0"
+hash = "0c766ab685c40240e1bdbdf8ce0fba5249309f9ea882b54048f7fc0aefc64069"
 
 [[files]]
 file = "config/bclib/client.json"
