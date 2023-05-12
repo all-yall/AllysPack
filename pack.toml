@@ -1,12 +1,12 @@
 name = "AllysPack"
 author = "ally"
-version = "0.0.3"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ed05f1f3750484a8381557c665752bd934b8d0237d9aec6e0795f4dea70b56c9"
+hash = "89c68f9725ce63edc1782d23146350c27ac5100612dc7ba17c01d792a3d0d7a4"
 
 [versions]
 fabric = "0.14.10"
