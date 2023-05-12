@@ -1,6 +1,6 @@
 name = "AllysPack"
 author = "ally"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "89c68f9725ce63edc1782d23146350c27ac5100612dc7ba17c01d792a3d0d7a4"
 
 [versions]
-fabric = "0.14.10"
+fabric = "0.14.19"
 minecraft = "1.19.2"
